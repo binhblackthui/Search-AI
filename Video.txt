@@ -1,0 +1,34 @@
+test case 01:
++ BFS: https://drive.google.com/file/d/1QkfoEFfW4sKg0pfrq52JMUCppAZ91VtP/view?usp=sharing
++ DFS: https://drive.google.com/file/d/131c20_s9tG4MRnd2BO75k-ziTlxyjIFT/view?usp=sharing
++ UCS: https://drive.google.com/file/d/1ShPM4xKt337-G1wO4qnIH4t34zfLAvn3/view?usp=sharing
++ Greedy: https://drive.google.com/file/d/1ONFBmkwTJ8l3glEr-P191gmBmfJmIZDV/view?usp=sharing
++ Astar: https://drive.google.com/file/d/1dK47QsglEe2_RR-zk6gO5Em6LW6L8K0s/view?usp=sharing
+
+test case 02:
++ BFS: https://drive.google.com/file/d/1AI6x7XfcvTMs3foKPP-1Sna6RBPzTqME/view?usp=sharing
++ DFS: https://drive.google.com/file/d/1m2vr2i8mLHG6qeEsziETEDWyQVuSt0XZ/view?usp=sharing
++ UCS: https://drive.google.com/file/d/1JCyO12sVFakVupOrL8apbSdqtZRSGyuZ/view?usp=sharing
++ Greedy: https://drive.google.com/file/d/1drpBFcJJAVn-9nk0S5qqKSO62QP5qmHD/view?usp=sharing
++ Astar: https://drive.google.com/file/d/1wBsTHLk3W8UzjolJNPPyvS4NNmx7GQP2/view?usp=sharing
+
+test case 03:
++ BFS: https://drive.google.com/file/d/114Wfs3f3h4Mcy3OfiR8HnnZdmGFjBDSJ/view?usp=sharing
++ DFS: https://drive.google.com/file/d/1bjMcqbqJ8O9h2v03918YRX5Um3uXR3GZ/view?usp=sharing
++ UCS: https://drive.google.com/file/d/1qL0ZXiQfSg4PTy-0XBR_RJ8PH-8ZkNOF/view?usp=sharing
++ Greedy: https://drive.google.com/file/d/1lKawGLuG_E9QfBtRk2dOZ4Cg6Yk8tz3U/view?usp=sharing
++ Astar: https://drive.google.com/file/d/1kGGsoiCHys8M356WMr1y5KYxlQlgDh9J/view?usp=sharing
+
+test case 04:
++ BFS: https://drive.google.com/file/d/1e23nMUVG0mqAIqNy0qHJANQ23tU7ylNr/view?usp=sharing
++ DFS: https://drive.google.com/file/d/1dlCrhLH0zJnMe7GAvs_RaMm7xgMiy07g/view?usp=sharing
++ UCS: https://drive.google.com/file/d/14Pcj2YUsWWrgoHjwBAaHC8tRblgqc6GI/view?usp=sharing
++ Greedy: https://drive.google.com/file/d/1RbJBcK0R2QmzIW3WkSCturFJvwaQEXjX/view?usp=sharing
++ Astar: https://drive.google.com/file/d/1afBAPyn5NkpAQ6BQxYgu_PfT9tJa43DX/view?usp=sharing
+
+test case 05:
++ BFS: https://drive.google.com/file/d/1fd2PNr0rMPbCmvFIB8E95uTO0LIhCE_H/view?usp=sharing
++ DFS: https://drive.google.com/file/d/1cmfSLmw3hIdoKzt5cDPDw4vA9PrQwJ6w/view?usp=sharing
++ UCS: https://drive.google.com/file/d/1S9xA30hUIjPi2Y-uhoHtsQ1kTPllMsS3/view?usp=sharing
++ Greedy: https://drive.google.com/file/d/1lfszQI20yYbpf6ncef9Qm9qHJWNDAmyn/view?usp=sharing
++ Astar: https://drive.google.com/file/d/1Txh7C271aWeBuTmInQzsJTZ13CVvRNEF/view?usp=sharing
